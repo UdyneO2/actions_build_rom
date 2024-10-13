@@ -1,22 +1,42 @@
 [
   {
-    "url":"https://github.com/laityts/android_kernel_xiaomi_sdm710.git",
-    "target_path":"kernel/xiaomi/sdm710",
-    "branch":"lineage-19.1"
+    "url":"https://github.com/Exynos3475/android_kernel_samsung_exynos3475",
+    "target_path":"kernel/samsung/exynos3475",
+    "branch":"lineage-17.1"
   },
   {
-    "url":"https://github.com/laityts/android_device_xiaomi_grus.git",
-    "target_path":"device/xiaomi/grus",
-    "branch":"lineage-19.1"
+    "url":"https://github.com/Exynos3475/android_device_samsung_j1xlte",
+    "target_path":"device/samsung/j1xlte",
+    "branch":"lineage-17.1"
   },
   {
-    "url":"https://github.com/laityts/android_vendor_xiaomi_grus.git",
-    "target_path":"vendor/xiaomi/grus",
-    "branch":"lineage-19.1"
+    "url":"https://github.com/Exynos3475/aandroid_device_samsung_universal3475-common",
+    "target_path":"device/samsung/universal3475-common",
+    "branch":"lineage-17.1"
   },
   {
-    "url":"https://github.com/LineageOS/android_hardware_xiaomi.git",
-    "target_path":"hardware/xiaomi",
-    "branch":"lineage-19.1"
+    "url":"https://github.com/Exynos3475/android_vendor_samsung",
+    "target_path":"vendor/samsung",
+    "branch":"lineage-17.1"
+  },
+  {
+    "url":"https://github.com/Exynos3475/android_hardware_samsung_slsi_exynos3475",
+    "target_path":"hardware/samsung_slsi/exynos",
+    "branch":"lineage-17.1"
+  },
+  {
+    "url":"https://github.com/LineageOS/android_hardware_samsung_slsi_exynos5",
+    "target_path":"hardware/samsung_slsi/exynos5",
+    "branch":"lineage-17.1"
+  },
+  {
+    "url":"https://github.com/LineageOS/android_hardware_samsung_slsi_openmax",
+    "target_path":"hardware/samsung_slsi/openmax",
+    "branch":"lineage-17.1"
+  },
+  {
+    "url":"https://github.com/LineageOS/android_hardware_samsung",
+    "target_path":"hardware/samsung",
+    "branch":"lineage-17.1"
   }
 ]
