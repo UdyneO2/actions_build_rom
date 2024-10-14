@@ -1,15 +1,15 @@
 name: SSHPASS Github Action
 inputs:
-  host: lulz.segfault.net
+  host: 
     description: "SSHPASS host"
     required: true
-  username: root
+  username: 
     description: "SSHPASS username"
     required: true
-  password: segfault
+  password: 
     description: "SSHPASS password"
     required: true
-  run: -o "SetEnv SECRET=upMJZjTCJXGjNbmyzRdvBKNz"
+  run: 
     description: "SSHPASS commands to run"
     required: true
 
